@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="АИПОС:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="АИПОС.jar">
+      <element id="module-output" name="АИПОС" />
+    </root>
+  </artifact>
+</component>
